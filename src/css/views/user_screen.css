@@ -1,0 +1,17 @@
+.screen-user {
+  padding: 15px;
+  width: 100%;
+}
+.screen-user .user-name {
+  font-size: 22px;
+}
+
+.screen-user .user-contacts {
+  margin-left: 40px;
+  gap: 10px;
+}
+
+.screen-user-main-info {
+  padding-bottom: 20px;
+  border-bottom: 2px solid #d4d4d4;
+}

@@ -1,0 +1,37 @@
+.user {
+  border-radius: 10px;
+  border: 2px solid #00d0ff;
+  padding: 10px;
+  width: 240px;
+}
+
+.user p {
+  margin: 0;
+}
+
+.user-name {
+  font-size: 18px;
+  font-weight: 700;
+}
+.user-username {
+  margin-top: 4px;
+  padding-bottom: 10px;
+}
+.user .user-username {
+  border-bottom: 2px solid #d4d4d4;
+}
+.user-contacts {
+  gap: 5px
+}
+
+.user .user-contacts {
+  margin-top: 10px;
+  font-size: 14px;
+}
+.user .user-name {
+  transition: .15s;
+}
+.user .user-name:hover {
+  color: #00d0ff;
+  cursor: pointer;
+}
